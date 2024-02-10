@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "712028442566",
+    "project_id": "amjad-brand",
+    "storage_bucket": "amjad-brand.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712028442566:android:313d8e68213a77f4cc6cc7",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4BX9K4Rgul1tmMhOaOLRqNuHbNpZ9Bws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
